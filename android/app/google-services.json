@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "531152875665",
+    "firebase_url": "https://readme-cfafc-default-rtdb.firebaseio.com",
+    "project_id": "readme-cfafc",
+    "storage_bucket": "readme-cfafc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:531152875665:android:a21d0d8755f9eb8fbf8f30",
+        "android_client_info": {
+          "package_name": "com.example.readme_project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "531152875665-ueqt9nnb1o5gpbd0so8972d2e0qr6mr4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBV-XoEftA-gMq-IKHnMZcNe5_8Tt7bUfc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "531152875665-ueqt9nnb1o5gpbd0so8972d2e0qr6mr4.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "531152875665-0ffedfi9fgab998rdh44reg46msa62em.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.readmeProject"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
